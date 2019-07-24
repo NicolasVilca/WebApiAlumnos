@@ -1,0 +1,14 @@
+C:\Users\Administrator\Nicolas Vilca TI\programacion\webapialumnos\bin\Debug\netcoreapp2.2\webapialumnos.deps.json
+C:\Users\Administrator\Nicolas Vilca TI\programacion\webapialumnos\bin\Debug\netcoreapp2.2\webapialumnos.runtimeconfig.json
+C:\Users\Administrator\Nicolas Vilca TI\programacion\webapialumnos\bin\Debug\netcoreapp2.2\webapialumnos.runtimeconfig.dev.json
+c:\Users\Administrator\Nicolas Vilca TI\programacion\webapialumnos\bin\Debug\netcoreapp2.2\webapialumnos.dll
+c:\Users\Administrator\Nicolas Vilca TI\programacion\webapialumnos\bin\Debug\netcoreapp2.2\webapialumnos.pdb
+c:\Users\Administrator\Nicolas Vilca TI\programacion\webapialumnos\obj\Debug\netcoreapp2.2\webapialumnos.csprojAssemblyReference.cache
+c:\Users\Administrator\Nicolas Vilca TI\programacion\webapialumnos\obj\Debug\netcoreapp2.2\webapialumnos.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Nicolas Vilca TI\programacion\webapialumnos\obj\Debug\netcoreapp2.2\webapialumnos.RazorAssemblyInfo.cache
+c:\Users\Administrator\Nicolas Vilca TI\programacion\webapialumnos\obj\Debug\netcoreapp2.2\webapialumnos.RazorAssemblyInfo.cs
+c:\Users\Administrator\Nicolas Vilca TI\programacion\webapialumnos\obj\Debug\netcoreapp2.2\webapialumnos.AssemblyInfoInputs.cache
+c:\Users\Administrator\Nicolas Vilca TI\programacion\webapialumnos\obj\Debug\netcoreapp2.2\webapialumnos.AssemblyInfo.cs
+c:\Users\Administrator\Nicolas Vilca TI\programacion\webapialumnos\obj\Debug\netcoreapp2.2\webapialumnos.RazorTargetAssemblyInfo.cache
+c:\Users\Administrator\Nicolas Vilca TI\programacion\webapialumnos\obj\Debug\netcoreapp2.2\webapialumnos.dll
+c:\Users\Administrator\Nicolas Vilca TI\programacion\webapialumnos\obj\Debug\netcoreapp2.2\webapialumnos.pdb
