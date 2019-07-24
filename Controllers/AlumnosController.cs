@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using webapialmunos.Models;
+using webapialumnos.Models;
 
 namespace webapialumnos.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class AlumnosController : ControllerBase
     {
         public static List<Alumno> Alumnos { get; set; } = new List<Alumno>()
         {

@@ -1,5 +1,5 @@
 using System;
-namespace webapialmunos.Models
+namespace webapialumnos.Models
 {
     public class Alumno
     {
